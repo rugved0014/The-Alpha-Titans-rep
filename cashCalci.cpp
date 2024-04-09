@@ -31,7 +31,6 @@ public:
         cout << "Current Balance: " << balance << endl;
     }
 
-    // Ensuring to declare a virtual destructor for a base class with virtual functions
     virtual ~Account() {}
 };
 
