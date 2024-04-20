@@ -258,7 +258,9 @@ int main() {
 
     cout << "What do you want to choose?\n1.Deposit\n2.Withdraw\n3.Check Balance\n";
     cin >> choice;
-
+    int modeNum;
+    cout<<"Enter the Mode:\n1.Cash\n2.Online\n3.Borrow";
+    cin>>modeNum;
     switch (choice) {
     case 1:
         double depositAmount;
