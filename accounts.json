@@ -2,7 +2,7 @@
     "accounts": [
         {
             "accountNumber": "1001",
-            "balance": 1000.0,
+            "balance": 10000.0,
             "interestRate": 0.02,
             "ownerName": "John Doe",
             "transactions": [
@@ -22,7 +22,7 @@
         },
         {
             "accountNumber": "1002",
-            "balance": 2500.0,
+            "balance": 25000.0,
             "overdraftLimit": 1000.0,
             "ownerName": "Jane Smith",
             "transactions": [
