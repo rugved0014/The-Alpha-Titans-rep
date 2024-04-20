@@ -1,0 +1,44 @@
+{
+    "accounts": [
+        {
+            "accountNumber": "1001",
+            "balance": 1000.0,
+            "interestRate": 0.02,
+            "ownerName": "John Doe",
+            "transactions": [
+                {
+                    "amount": 500.0,
+                    "timestamp": "2024-04-18T10:00:00",
+                    "type": "deposit"
+                },
+                {
+                    "amount": 200.0,
+                    "timestamp": "2024-04-19T15:30:00",
+                    "type": "withdrawal"
+                }
+            ],
+            "type": "SavingsAccount",
+            "username": null
+        },
+        {
+            "accountNumber": "1002",
+            "balance": 2500.0,
+            "overdraftLimit": 1000.0,
+            "ownerName": "Jane Smith",
+            "transactions": [
+                {
+                    "amount": 1500.0,
+                    "timestamp": "2024-04-18T11:00:00",
+                    "type": "deposit"
+                },
+                {
+                    "amount": 800.0,
+                    "timestamp": "2024-04-19T16:45:00",
+                    "type": "withdrawal"
+                }
+            ],
+            "type": "CurrentAccount",
+            "username": null
+        }
+    ]
+}

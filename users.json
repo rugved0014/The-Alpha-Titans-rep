@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "password": "password123",
+            "username": "john_doe"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "marysecure",
+            "username": "mary_lee"
+        },
+        {
+            "password": "password123",
+            "username": "john_doe"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "cd",
+            "username": "alice2024"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        },
+        {
+            "password": "alice2024",
+            "username": "alice_johnson"
+        }
+    ]
+}
