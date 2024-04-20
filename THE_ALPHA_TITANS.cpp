@@ -42,8 +42,8 @@ public:
         cout << "+--------------------------------------+\n";
 
         cout << "Are you a new user?                 \n";
-        cout << "1. Yes (Sign Up)                    \n";
-        cout << "2. No (Login)                       \n";
+        cout << "1. No (Log in)                    \n";
+        cout << "2. Yes (Sign up)                       \n";
     }
 
     int getUserChoice() {
