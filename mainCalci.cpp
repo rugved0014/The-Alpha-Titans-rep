@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <memory>
+#include <bits/stdc++.h>
 
 using namespace std;
 
